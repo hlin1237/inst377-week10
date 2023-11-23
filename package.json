@@ -1,0 +1,17 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "description": "week 10 sample app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -e '*' ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huimin Lin",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
